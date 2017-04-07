@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_colors_keys">
+        <item>Black</item>
+        <item>Grey</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Red</item>
+    </string-array>
+
+    <string-array name="array_color_values">
+        <item>#000000</item>
+        <item>#AAAAAA</item>
+        <item>#0000FF</item>
+        <item>#FFFF00</item>
+        <item>#00FF00</item>
+        <item>#FF0000</item>
+    </string-array>
+</resources>

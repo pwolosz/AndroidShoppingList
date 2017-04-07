@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="login_button">Login</string>
+    <string name="delete_button">Delete</string>
+    <string name="name_hint">name</string>
+    <string name="description_hint">description</string>
+    <string name="url_hint">picture url</string>
+    <string name="item_color_name">Item name color</string>
+    <string name="item_color_description">Item description color</string>
+    <string name="menu_title">Settings</string>
+</resources>
